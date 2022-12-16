@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alexpondaven
 - 🎓 I'm in my fourth year at Imperial College London studying computer engineering
-- 👀 I’m interested in deep learning, generative models and computer vision
-- 🌱 I’m currently learning more about diffusion models and object-centric representation learning
-- 💞️ I’m looking to collaborate on any cool ideas especially in machine learning
+- 👀 Interested in deep learning, generative models and computer vision
+- 🌱 Currently learning more about diffusion models and object-centric representation learning
+- 💞️ Looking to collaborate on any cool ideas especially in machine learning
 - 📫 How to reach me: alex.pondaven@gmail.com
 
 <!---
