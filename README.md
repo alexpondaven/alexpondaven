@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexpondaven
+- 👋 Hi, I’m [Alexander Pondaven](https://alexpondaven.github.io/)
 - 🎓 I'm in my fourth year at Imperial College London studying computer engineering
 - 👀 Interested in deep learning, generative models and computer vision
 - 🌱 Currently learning more about diffusion models and object-centric representation learning
