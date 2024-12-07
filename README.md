@@ -1,8 +1,6 @@
 - 👋 Hi, I’m [Alexander Pondaven](https://alexpondaven.github.io/)
 - 🎓 I'm doing a PhD at Oxford in the Torr Vision Group
-- 👀 Interested in deep learning, generative models and computer vision
-- 🌱 Currently learning more about diffusion models and object-centric representation learning
-- 💞️ Looking to collaborate on any cool ideas especially in machine learning
+- 👀 Interested in controlling video generation
 - 📫 How to reach me: alex.pondaven@gmail.com
 
 <!---
